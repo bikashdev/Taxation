@@ -1,0 +1,4 @@
+Taxation.MainActivity, Taxation;md5cd349d3f54022dd38f741206f96743ff.MainActivity
+Taxation.MainActivity, Taxation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cd349d3f54022dd38f741206f96743ff.MainActivity
+Taxation.MainActivity;md5cd349d3f54022dd38f741206f96743ff.MainActivity
+taxation.MainActivity;md5cd349d3f54022dd38f741206f96743ff.MainActivity
